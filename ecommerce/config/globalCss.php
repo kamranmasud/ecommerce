@@ -1,6 +1,7 @@
 <?php
 
 return [
-    'bootstrap' => 'css/bootstrap.min.css',
-    'custom' => 'css/custom.css'
+    'bootstrap' => 'css/bootstrap.css',
+    'custom' => 'css/custom.css',
+    'footer' => 'css/footer.css'
 ];

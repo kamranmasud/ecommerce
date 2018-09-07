@@ -286,38 +286,6 @@ section .carousel-slider .button-right{
 }
 
 
-
-footer .footer-nav ul{
-    background: #414b4e;
-    border-radius: 5px;
-}
-footer .footer-nav ul li{
-    margin: 0 5%;
-}
-footer .footer-nav ul li:after{
-    content: "";
-    height: 20px;
-    width: 1px;
-    float: none;
-    border-right: 1px dotted #bfcbce;
-    position: relative;
-    left: 45%;
-}
-footer .footer-nav ul li:last-child:after{
-    border-right: none;
-}
-footer .footer-nav ul li a{
-    padding: 10px;
-    display: inline-block;
-    text-decoration: none;
-    color: #fff;
-}
-
-footer .company-info{
-    margin-top: 10px;
-    text-align: center;
-}
-
 @media screen and (max-width: 991px) {
     header .slider-container > .slider-children > div.controls > ul > li{
         padding: 10px 0

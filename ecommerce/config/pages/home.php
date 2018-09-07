@@ -6,7 +6,7 @@ return [
     
     'css' => [
         'bootstrap',
-        'custom'
+        'custom',
     ],
     
     'js' => [
