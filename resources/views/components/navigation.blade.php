@@ -12,9 +12,10 @@
                                 <li class="pull-left active"><a href="{{url('/')}}">Home</a></li>
                                 <li class="pull-left"><a href="#">What's New</a></li>
                                 <li class="pull-left"><a href="#">Specials</a></li>
-                                <li class="pull-left"><a href="{{url('/registration.html')}}">User Registration</a></li>
+                                <li class="pull-left"><a href="{{url('/registration')}}">User Registration</a></li>
                                 <li class="pull-left"><a href="{{url('/dashboard')}}">Dashboard</a></li>
                                 <li class="pull-left"><a href="{{url('login.html')}}">Login</a></li>
+                                <li class="pull-left"><a href="#">Logout</a></li>
                             </ul>
                         </nav>
                     </div>
